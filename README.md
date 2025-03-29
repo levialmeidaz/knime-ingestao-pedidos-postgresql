@@ -12,7 +12,7 @@ Este projeto automatiza a ingestão de arquivos `.csv` contendo pedidos comercia
 - 🧼 Criação de chave única (`chave_pedido`)
 - 🧹 Deduplicação com base na última ocorrência
 - 📤 Upsert (inserção/atualização) no PostgreSQL via `DB Merge`
-- 
+  
 ---
 
 ## 📂 Estrutura do Projeto
