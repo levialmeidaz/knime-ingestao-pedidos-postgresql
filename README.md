@@ -60,4 +60,4 @@ knime-pipeline-pedidos/
 ![Fluxo KNIME](screenshots/knime_fluxo.png)
 
 ---
-Desenvolvido com 💡 por Levi Almeida
+💡 Desenvolvido por Levi Almeida
